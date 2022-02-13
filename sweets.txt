@@ -1,0 +1,3 @@
+Name=Diplomat, numSweets=2
+ Total price : 12.0
+
